@@ -1,4 +1,6 @@
 🚗 Car Sales Prediction 
+
+
 This mini-project demonstrates the use of K-Nearest Neighbors (KNN) algorithm for predicting car sales data. It includes data preprocessing, feature scaling, model training, and evaluation. Ideal for beginners learning supervised machine learning with real-world data.
 
 📌 Project Overview
@@ -104,5 +106,5 @@ Developed as a beginner ML practice project
 
 📬 Contact
 Your Name
-📧 your.email@example.com
-🔗 LinkedIn | Portfolio
+📧 vmonickajaai@gmail.com
+🔗 LinkedIn |  linkedin.com/in/v-monicka-jaai-847632289/
